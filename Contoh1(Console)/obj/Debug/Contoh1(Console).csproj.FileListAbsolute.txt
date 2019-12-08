@@ -1,0 +1,6 @@
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\bin\Debug\Contoh1(Console).exe.config
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\bin\Debug\Contoh1(Console).exe
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\bin\Debug\Contoh1(Console).pdb
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\obj\Debug\Contoh1(Console).csprojResolveAssemblyReference.cache
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\obj\Debug\Contoh1(Console).exe
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh1(Console)\obj\Debug\Contoh1(Console).pdb

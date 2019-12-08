@@ -1,0 +1,10 @@
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\bin\Debug\Contoh2(Form).exe.config
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\bin\Debug\Contoh2(Form).exe
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\bin\Debug\Contoh2(Form).pdb
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2(Form).csprojResolveAssemblyReference.cache
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2_Form_.Form1.resources
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2_Form_.Properties.Resources.resources
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2(Form).csproj.GenerateResource.Cache
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2(Form).exe
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2(Form).pdb
+C:\Users\Apriyanto Halim\Documents\File Folder\File\Dosen\Genap\PBO\Modul\Teori\Contoh\SC - B (Pagi)\Modul_6(2)\Contoh2(Form)\obj\Debug\Contoh2_Form_.Form2.resources
